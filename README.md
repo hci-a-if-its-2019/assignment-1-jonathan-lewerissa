@@ -4,11 +4,52 @@ Bukalapak is a digital marketplace app designed to facilitate users with an onli
 ## Instruction Script
 1. Signing up or logging in to the Bukalapak mobile app.
 2. Finding the menu and making a transaction for topping up the mobile phone credit.
-3. Finding the menu and making a transaction for buying *reksadana*
+3. Using promo voucher for transaction.
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+* Female
+* More than 50 years old in age
+* A novice with mobile device and its functionality
+* Never used a marketplace app before
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+A signates me as the asker, B signates the respondent.
+
+01:01 - A: Coba buat akun baru di Bukalapak
+01:10 - B: Loginnya dimana, apa yang tombol akun ini?
+01:13 - A: Dicoba aja.
+01:20 - B: ini yang tombol login atau daftar akun?
+01:25 - A: Sudah punya akun di Bukalapak?
+01:30 - B: Belum sih. Coba daftar akun.
+01:40 - A: Untuk daftarnya coba pakai akun Google. (Untuk mempermudah pendaftaran akun)
+01:45 - B: *Melakukan proses pemilihan akun Google*
+02:25 - B: Untuk jenis kelamin perempuan.
+02:40 - B: Ini ada harus buat password?
+02:45 - A: Iya.
+03:35 - B: Oke, password selesai. *Klik tombol Daftar*
+03:50 - A: Sekarang coba cari untuk isi pulsa
+03:55 - B: Kalau mau isi pulsa bagaimana? Apa yang bagian voucher?
+04:05 - B: Ini ya, yang bagian pulsa prabayar?
+04:10 - A: Coba aja ditekan.
+04:25 - B: No telepon dimasukkan disini?
+04:30 - B: *memasukkan no telepon*
+05:23 - B: *selesai memasukkan no telepon*
+05:28 - B: terus pilih nominal...
+05:40 - A: misal coba isi Rp. 50.000
+05:45 - B: terus sekarang bayar
+05:50 - B: *melihat bagian voucher*
+05:55 - B: ini kode voucher untuk promo? mau dicoba?
+06:10 - A: boleh kalau mau dicoba
+06:15 - B: *membaca ketentuan voucher serta menyalin* Oh, pembelian harus diatas 100.000, baru bisa pakai voucher.
+06:45 - B: *mengganti ke 100.000 untuk nilai transaksi*
+06:50 - B: oke, terus vouchernya ini diisi kemana? apa yang salin ini?
+06:55 - A: salin berarti di-*copy*
+07:05 - B: *membaca voucher kedua* Oh, harus pakai BukaDana
+07:30 - A: Untuk sementara pakai yang biasa dulu saja.
+
+
+
+
+
+
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
@@ -17,4 +58,5 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+### Do's
+* Verify the user right after the user has been registered to avoid confusion with the general usage flow.
