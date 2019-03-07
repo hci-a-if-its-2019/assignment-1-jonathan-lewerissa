@@ -44,12 +44,29 @@ A signates me as the asker, B signates the respondent.
 06:55 - A: salin berarti di-*copy*
 07:05 - B: *membaca voucher kedua* Oh, harus pakai BukaDana
 07:30 - A: Untuk sementara pakai yang biasa dulu saja.
-
-
-
-
-
-
+08:00 - B: Ah, ini vouchernya beda ternyata, bingung jadinya
+08:20 - B: Sekarang coba bayar. Metode pembayaran apa yang digunakan?
+08:30 - A: Yang ini BCA Virtual Account saja.
+09:00 - B: Oke sekarang tulis vouchernya dimana? Apa yang tulisan "Punya kode voucher ini"?
+09:15 - B: Oke sekarang coba centang bagian menggunakan voucher. Terus? Masukkan kode.
+09:20 - B: *mengetik voucher manual*
+09:30 - B: tadi kan sudah disalin vouchernya? *kemudian memasukkan hasil salinan*
+09:40 - B: oke, gunakan voucher.
+09:50 - B: *setelah input voucher* ternyata harus verifikasi no. telepon dulu, baru bisa pakai voucher
+09:55 - A: oke kalau mau verifikasi bagaimana?
+10:00 - B: tulis lagi ya?
+10:10 - A: coba lihat di bagian *settings*
+10:30 - A: *kembali ke menu tampilan awal, diatas ada card dengan tulisan verifikasi akun*
+10:35 - B: yang bagian ini, yang verifikasi akun?
+10:50 - B: masukkan data no. telepon dan password lagi ya?
+11:05 - B: *input nomor dan password*
+12:00 - B: pilih cara verifikasi akun *(Whatsapp atau SMS)*, dilanjutkan dengan memilih Whatsapp
+13:00 - B: memasukkan nomor verifikasi yang didapat dari Whatsapp.
+13:20 - B: oke, selesai verifikasi lanjut isi pulsa lagi.
+13:30 - B: *mengulang dengan step yang sama sampai ke memasukkan voucher*
+14:40 - B: oke sudah, sekarang bayar
+14:50 - B: oke, jumlah tagihan tertera
+15:00 - A: oke, tinggal ku bayar
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
@@ -59,4 +76,4 @@ A signates me as the asker, B signates the respondent.
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
 ### Do's
-* Verify the user right after the user has been registered to avoid confusion with the general usage flow.
+* Promptly verify the user right after the user has been registered to avoid confusion with the general usage flow.
