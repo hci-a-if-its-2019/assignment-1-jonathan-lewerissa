@@ -12,7 +12,7 @@ Bukalapak is a digital marketplace app designed to facilitate users with an onli
 * Never used a marketplace app before
 ## Transcript
 A signates me as the asker, B signates the respondent.
-
+```
 01:01 - A: Coba buat akun baru di Bukalapak
 01:10 - B: Loginnya dimana, apa yang tombol akun ini?
 01:13 - A: Dicoba aja.
@@ -67,6 +67,7 @@ A signates me as the asker, B signates the respondent.
 14:40 - B: oke sudah, sekarang bayar
 14:50 - B: oke, jumlah tagihan tertera
 15:00 - A: oke, tinggal ku bayar
+```
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
