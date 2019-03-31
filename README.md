@@ -78,3 +78,10 @@ A signates me as the asker, B signates the respondent.
 ## Do's and Don't's
 ### Do's
 * Promptly verify the user right after the user has been registered to avoid confusion with the general usage flow.
+
+# Remarks
+> * Thanks for working on this assignment. All the parts are complete, except for the `Models and Annotations`. Please don't forget to work on them later in the next assignment #3 as necessary.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 4                | 0               | 58                 | 79         | 62,2  |
